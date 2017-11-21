@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/trunk/src/com/overkill/ogame/game
+END
+Planet.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/163/trunk/src/com/overkill/ogame/game/Planet.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/160/trunk/src/com/overkill/ogame/game/Message.java
+END
+PlanetAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/202/trunk/src/com/overkill/ogame/game/PlanetAdapter.java
+END
+MessageAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/156/trunk/src/com/overkill/ogame/game/MessageAdapter.java
+END
+BuildObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/139/trunk/src/com/overkill/ogame/game/BuildObject.java
+END
+BuildObjectAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/139/trunk/src/com/overkill/ogame/game/BuildObjectAdapter.java
+END
+GalaxyPlanet.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/200/trunk/src/com/overkill/ogame/game/GalaxyPlanet.java
+END
+GalaxyPlanetAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/200/trunk/src/com/overkill/ogame/game/GalaxyPlanetAdapter.java
+END
+NotificationSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/202/trunk/src/com/overkill/ogame/game/NotificationSystem.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/171/trunk/src/com/overkill/ogame/game/Player.java
+END
+PlayerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/172/trunk/src/com/overkill/ogame/game/PlayerAdapter.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/124/trunk/src/com/overkill/ogame/game/Item.java
+END
+Tools.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/202/trunk/src/com/overkill/ogame/game/Tools.java
+END
+FleetAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/108/trunk/src/com/overkill/ogame/game/FleetAdapter.java
+END
+FleetEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/185/trunk/src/com/overkill/ogame/game/FleetEvent.java
+END
+FleetEventAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/126/trunk/src/com/overkill/ogame/game/FleetEventAdapter.java
+END
+Ship.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/133/trunk/src/com/overkill/ogame/game/Ship.java
+END
+GameClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/208/trunk/src/com/overkill/ogame/game/GameClient.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/59/trunk/src/com/overkill/ogame/game/Resources.java
+END

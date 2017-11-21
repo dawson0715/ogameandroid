@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/202/trunk/res/layout
+END
+adapter_galaxy_parent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/202/trunk/res/layout/adapter_galaxy_parent.xml
+END
+adapter_item_planet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/202/trunk/res/layout/adapter_item_planet.xml
+END
+adapter_item_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/156/trunk/res/layout/adapter_item_message.xml
+END
+system_noification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/202/trunk/res/layout/system_noification.xml
+END
+activity_tab_listview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/200/trunk/res/layout/activity_tab_listview.xml
+END
+adapter_item_player.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/171/trunk/res/layout/adapter_item_player.xml
+END
+adapter_item_fleet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/89/trunk/res/layout/adapter_item_fleet.xml
+END
+adapter_item_fleetevent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/trunk/res/layout/adapter_item_fleetevent.xml
+END
+activity_overview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/85/trunk/res/layout/activity_overview.xml
+END
+activity_tab_fleet1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/124/trunk/res/layout/activity_tab_fleet1.xml
+END
+activity_message_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/143/trunk/res/layout/activity_message_detail.xml
+END
+activity_tab_fleet2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/118/trunk/res/layout/activity_tab_fleet2.xml
+END
+activity_resource_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/200/trunk/res/layout/activity_resource_settings.xml
+END
+activity_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/202/trunk/res/layout/activity_login.xml
+END
+system_title_message_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/168/trunk/res/layout/system_title_message_list.xml
+END
+activity_tab_fleet3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/118/trunk/res/layout/activity_tab_fleet3.xml
+END
+adapter_item_object.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/106/trunk/res/layout/adapter_item_object.xml
+END
+tabmenu_customslidingtabhost.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/202/trunk/res/layout/tabmenu_customslidingtabhost.xml
+END
+activity_message_compose.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/171/trunk/res/layout/activity_message_compose.xml
+END
+system_title_planet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/56/trunk/res/layout/system_title_planet.xml
+END
+system_title_galaxy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/200/trunk/res/layout/system_title_galaxy.xml
+END
+activity_message_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/156/trunk/res/layout/activity_message_list.xml
+END
+tabmenu_scrollgroupradiobuttonview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/36/trunk/res/layout/tabmenu_scrollgroupradiobuttonview.xml
+END
+activity_tab_movement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/178/trunk/res/layout/activity_tab_movement.xml
+END
+system_item_donation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/182/trunk/res/layout/system_item_donation.xml
+END

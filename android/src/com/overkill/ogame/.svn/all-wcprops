@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/trunk/src/com/overkill/ogame
+END
+MessageListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/200/trunk/src/com/overkill/ogame/MessageListView.java
+END
+ObjectListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/202/trunk/src/com/overkill/ogame/ObjectListActivity.java
+END
+GalaxyView.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/202/trunk/src/com/overkill/ogame/GalaxyView.java
+END
+SettingsViewWithInAppBilling.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/208/trunk/src/com/overkill/ogame/SettingsViewWithInAppBilling.java
+END
+MovementView.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/200/trunk/src/com/overkill/ogame/MovementView.java
+END
+MainTabActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/202/trunk/src/com/overkill/ogame/MainTabActivity.java
+END
+FleetView.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/186/trunk/src/com/overkill/ogame/FleetView.java
+END
+SettingsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/200/trunk/src/com/overkill/ogame/SettingsView.java
+END
+PlanetListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/202/trunk/src/com/overkill/ogame/PlanetListActivity.java
+END
+CombatReportView.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/143/trunk/src/com/overkill/ogame/CombatReportView.java
+END
+MessageDetailView.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/200/trunk/src/com/overkill/ogame/MessageDetailView.java
+END
+BuddyView.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/195/trunk/src/com/overkill/ogame/BuddyView.java
+END
+ResourceSettingsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/200/trunk/src/com/overkill/ogame/ResourceSettingsView.java
+END
+LoginView.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/200/trunk/src/com/overkill/ogame/LoginView.java
+END
+AllianceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/200/trunk/src/com/overkill/ogame/AllianceView.java
+END
+MessageComposeView.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/171/trunk/src/com/overkill/ogame/MessageComposeView.java
+END
+Overview.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/202/trunk/src/com/overkill/ogame/Overview.java
+END

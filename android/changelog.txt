@@ -1,0 +1,34 @@
+v0.7.2
+- fix[Paster]: fix values-it/strings.xml
+- fix[Paster]: fix SettingsViewWithInAppBilling.java
+- fix[Paster]: we can login now,but there are still some problems we need to solve
+
+v0.7.1
+- fix: notification system problems on ICS
+- fix: fetching moon image (for now default moon image is used for ALL moons)
+- fix: moon activity showing in two rows
+- fix: fetching unread messages on overview
+- fix: not able to send espionage or launch missles if number was ending with 0 
+- new: removed Resource settings from context menu as it is available from scroll menu
+- new: changed login layout so it could fit on smaller resolution
+
+v0.7.0
+- fix: galaxy view ally info changed in server version 4.0
+
+v0.6.7
+- fix: searching option value in HTML
+- fix: removed Attack action from galaxy view menu if we are the owner of selected planet
+- fix: galaxy view ally info
+- fix: parsing planet resources info
+- fix: fetching planet image (added dedicated method for fetching planet image)
+- fix: reduce background image size and turned to black/white (memory reduce)
+- new: added loading indicator in galaxy view
+- new: improved planet activity indicator
+- new: added moon activity indicator
+- new: mark debris in green if there are equals or more then configured recyclers needed (default set to 2)
+- new: added Honorable target mark in galaxy view
+- new: in overview when reloading resources info, reload notification info
+- new: returned managing planet resources
+- new: scroll to last message views when returning from message details view
+- TODO: change planet images names (for now default planet image is used for ALL planets)
+- TODO: update header info in galaxy view when some action is performed (e.g send probe)

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/200/trunk/src/com/android/vending/billing
+END
+BillingReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/185/trunk/src/com/android/vending/billing/BillingReceiver.java
+END
+IMarketBillingService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/185/trunk/src/com/android/vending/billing/IMarketBillingService.aidl
+END
+Security.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/200/trunk/src/com/android/vending/billing/Security.java
+END
+Consts.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/185/trunk/src/com/android/vending/billing/Consts.java
+END
+ResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/185/trunk/src/com/android/vending/billing/ResponseHandler.java
+END
+PurchaseDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/185/trunk/src/com/android/vending/billing/PurchaseDatabase.java
+END
+BillingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/185/trunk/src/com/android/vending/billing/BillingService.java
+END
+PurchaseObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/200/trunk/src/com/android/vending/billing/PurchaseObserver.java
+END
